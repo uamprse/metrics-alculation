@@ -1,4 +1,4 @@
-# metrics-alculation
+# metrics-сalculation
 calculation statistical metrics for a data set.
 
 Программа для вычисления статистических метрик набора данных
